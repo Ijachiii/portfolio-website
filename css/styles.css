@@ -20,18 +20,18 @@ p {
 
 .second-con {
     margin-top: 10rem;
-    font-family: cursive;
+    font-family: "Roboto Mono", monospace;
     padding: 4rem 0px;
 }
 
 .third-con {
     margin-top: 7rem;
-    font-family: cursive;
+    font-family: "Roboto Mono", monospace;
 }
 
 .fourth-con {
     padding-top: 7rem;
-    font-family: cursive;
+    font-family: "Roboto Mono", monospace;
 }
 
 .navbar-brand {
