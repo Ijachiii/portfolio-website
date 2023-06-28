@@ -13,8 +13,8 @@ p {
     grid-template-columns: 1fr 1fr;
     grid-gap: 20px;
     position: relative;
-    margin-top: 3%;
-    font-family: cursive;
+    margin-top: 1.5%;
+    font-family: "Roboto Mono", monospace;
 }
 
 
