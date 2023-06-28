@@ -20,17 +20,23 @@ p {
 
 .second-con {
     font-family: "Roboto Mono", monospace;
+    font-size: 1.4rem;
+    line-height: 2.8rem;
     padding: 4rem 0px;
 }
 
 .third-con {
     margin-top: 5rem;
     font-family: "Roboto Mono", monospace;
+    font-size: 1.4rem;
+    line-height: 2.8rem;
 }
 
 .fourth-con {
     padding-top: 7rem;
     font-family: "Roboto Mono", monospace;
+    font-size: 1.4rem;
+    line-height: 2.8rem;
 }
 
 .navbar-brand {
