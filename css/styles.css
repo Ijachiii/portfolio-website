@@ -62,7 +62,7 @@ h1 {
     background-color: #343A40;
     color: #E6E6E6;
     text-align: center;
-    margin: 3rem 0;
+    margin: 1.3rem 0;
     height: 5px;
 }
 
@@ -80,6 +80,13 @@ h1 {
 .footer-link:hover {
     color: #a19b9b;
     text-decoration: overline;
+}
+
+.copyright {
+    font-family: "Roboto Mono", monospace;
+    font-size: 1.2rem;
+    line-height: 2.8rem;
+    padding-bottom: 20px;
 }
 
 .nav-link {
