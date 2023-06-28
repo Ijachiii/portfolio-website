@@ -1,0 +1,108 @@
+body {
+    background-color: #343A40;
+    color: #E6E6E6;
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1.3rem;
+}
+
+.first-con {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    position: relative;
+    margin-top: 3%;
+    font-family: cursive;
+}
+
+
+.second-con {
+    margin-top: 10rem;
+    font-family: cursive;
+    padding: 4rem 0px;
+}
+
+.third-con {
+    margin-top: 7rem;
+    font-family: cursive;
+}
+
+.fourth-con {
+    padding-top: 7rem;
+    font-family: cursive;
+}
+
+.navbar-brand {
+    font-size: 35px;
+}
+
+.nav-item {
+    font-size: 20px;
+    margin-right: 50px;
+}
+
+.intro {
+    margin-top: 37%;
+    font-size: 260%;
+}
+
+
+h1 {
+    text-align: left;
+}
+
+
+.form-group {
+    padding-left: 27%
+}
+
+.bottom-container {
+    background-color: #343A40;
+    color: #E6E6E6;
+    text-align: center;
+    margin: 3rem 0;
+    height: 5px;
+}
+
+.links {
+    padding-top: 20px
+}
+
+.footer-link {
+    padding-right: 20px;
+    padding-left: 20px;
+    color: #343A40;
+}
+
+
+.footer-link:hover {
+    color: #a19b9b;
+    text-decoration: overline;
+}
+
+.nav-link {
+    color: #343A40;
+}
+
+.nav-link:hover {
+    color: #a19b9b;
+}
+
+.navbar-brand {
+    color: #343A40;
+}
+
+.navbar-brand:hover {
+    color: #a19b9b;
+    text-decoration: underline
+}
+
+.btn-dark:hover {
+    color: #a19b9b;
+}
+
+.navbar {
+    font-family: cursive;
+}
