@@ -141,8 +141,12 @@ h3 {
     padding-top: 50px;
 }
 
+.spotify {
+    padding-top: 100px;
+}
+
 .image {
-    width: 600px;
-    margin-left: 100px;
+    width: 500px;
+    margin-left: 80px;
     margin-bottom: 70px;
 }
