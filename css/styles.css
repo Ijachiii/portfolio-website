@@ -132,3 +132,11 @@ li {
     font-size: 1.2rem;
     line-height: 2.5rem;
 }
+
+h3 {
+    font-family: 'Exo 2', sans-serif;
+}
+
+.educart {
+    padding-top: 50px;
+}
