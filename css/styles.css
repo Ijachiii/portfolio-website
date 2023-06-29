@@ -15,7 +15,7 @@ p {
     grid-template-columns: 1fr 1fr;
     grid-gap: 20px;
     position: relative;
-    margin-top: 6%;
+    margin-top: 3%;
     font-family: "Roboto Mono", monospace;
 }
 
@@ -37,6 +37,7 @@ p {
 
 .navbar-brand {
     font-size: 35px;
+    color: #E6E6E6;
 }
 
 .nav-item {
@@ -90,29 +91,31 @@ h1 {
     padding-bottom: 20px;
 }
 
-.nav-link {
-    color: #343A40;
+.navbar {
+    background-color: #343A40;
+    color: #E6E6E6;
+    font-family: Lato, sans-serif;
+    transition: background-color 0.3s ease;
 }
 
-.nav-link:hover {
-    color: #a19b9b;
-}
-
-.navbar-brand {
-    color: #343A40;
+.navbar.scrolled {
+    background-color: #E6E6E6;
 }
 
 .navbar-brand:hover {
-    color: #a19b9b;
-    text-decoration: underline
+    color: #343A40
 }
 
-.btn-dark:hover {
-    color: #a19b9b;
+.nav-brand {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 16px;
+    color: #E6E6E6;
 }
 
-.navbar {
-    font-family: Lato, sans-serif;
+.nav-brand:hover {
+    color: #a19b9b;
+    text-decoration: none;
 }
 
 table {
