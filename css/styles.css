@@ -15,7 +15,7 @@ p {
     grid-template-columns: 1fr 1fr;
     grid-gap: 20px;
     position: relative;
-    margin-top: 3%;
+    margin-top: 4%;
     font-family: "Roboto Mono", monospace;
 }
 
